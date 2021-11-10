@@ -3,6 +3,6 @@ def isPalindrome(s) :
 s="malayalam"
 ans=isPalindrome(s)
 if ans:
-  print("yes")
+  print("palindrome no.")
 else:
-  print("no")
+  print("not a palindrome no.")
